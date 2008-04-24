@@ -1,0 +1,6 @@
+AUTHORS
+Makefile.PL
+MANIFEST
+README
+t/Acme-ICHC-Lolcats.t
+lib/Acme/ICHC/Lolcats.pm
